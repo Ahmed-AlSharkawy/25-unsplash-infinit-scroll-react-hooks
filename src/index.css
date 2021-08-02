@@ -245,6 +245,7 @@ Stock Photos
 }
 .loading-img img {
   height: 10rem;
+  filter: none;
 }
 
 @media screen and (min-width: 400px) {
